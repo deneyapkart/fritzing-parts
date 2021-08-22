@@ -1,6 +1,6 @@
 # Deneyap Kart Fritzing Kütüphanesi
 
-##Deneyap Kart
+## Deneyap Kart
 
 Güçlü işlemcisi, dayanıklı tasarımı ve esnek giriş/çıkış pinleri ile Türkiye'de tasarlanıp üretilen Deneyap Kart; Elektronik Programlama, Nesnelerin İnterneti (IoT) ve Yapay Zeka alanlarında başlangıç seviyesinden endüstriyel uygulamalara kadar her seviyede proje geliştirilmesine imkan tanır.
 
