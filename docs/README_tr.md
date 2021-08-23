@@ -10,8 +10,8 @@ Kart hakkında detaylı bilgiye erişmek için, lütfen [Deneyap Kart Teknik Reh
 ### Yükleme Talimatları
 
 - Son sürüm [Fritzing](https://fritzing.org/) indirin.
-- [DeneyapKart](https://github.com/deneyapkart/fritzing-parts/blob/master/DeneyapKart.fzpz) .fzpz uzantılı dosyayı indirin.
+- [DeneyapKart.fzpz](https://github.com/deneyapkart/fritzing-parts/blob/master/DeneyapKart.fzpz) uzantılı dosyayı indirin.
 - İndirdiğiniz dosyayı açın. 'DeneyapKart.fzpz' yüklenecektir.
-- Çizimlerinizi gerçekleştirdikten uygulamayı kapatılınca sorulan "İçe aktarılmış elemanları saklamak istiyor musunuz?" sorusuna "Yes" butonuna basarak devam edin.
-- "'My Parts' kovasında yaptığınız değişikleri kaydetmek istiyor musunuz? Eğer değişikleri kaydetmezseniz kaybolacaktır." sorusuna "Kaydet" butonuna basarak dosyayı kaydedin.
-- Daha sonraki uygulamalarınızda arama kısmına "DeneyapKart" yazıp uygulamalarınız ekleyip kullanmaya başlayın. 
+- Devre çizimlerinizi gerçekleştirdikten Fritzing programından çıkınca sorulan "İçe aktarılmış elemanları saklamak istiyor musunuz?" sorusuna "Evet" butonuna basarak devam edin.
+- ""My Parts" kovasında yaptığınız değişikleri kaydetmek istiyor musunuz? Eğer değişikleri kaydetmezseniz kaybolacaktır." sorusuna "Kaydet" butonuna basarak dosyayı kaydedin.
+- Daha sonraki çizimlerinizde arama kısmına "DeneyapKart" yazıp çizimlerinize ekleyip kullanmaya başlayın. 
