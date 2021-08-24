@@ -7,7 +7,7 @@ For more information, please visit [Deneyap Kart Technical Guide](https://docs.d
 
 ### Installation Instructions
 
-- Install the latest [Fritzing](https://fritzing.org/)
+- Install the latest [Fritzing](https://fritzing.org/).
 - Open the downloaded file. [DeneyapKart.fzpz](https://github.com/deneyapkart/fritzing-parts/blob/master/DeneyapKart.fzpz) will be installed.
 - When you exit the Fritzing program after completing your circuit drawings, the question "Do you want to keep the imported elements?" Proceed to the question by clicking the "Yes" button.
 - "Do you want to save the changes you made in the bin "My Parts" ? Your changes will be lost if you don!t save them." save the file by clicking the "Save" button.
